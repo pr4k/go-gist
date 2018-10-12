@@ -19,21 +19,21 @@ You can type `./go-gist.py -h` to get a list of all the commands.
 ---
 
 
-`go-gist -u /path/to/file` 
+`./go-gist -u /path/to/file` 
 
    Uploads FILE to the GITHUB
 
 
-`go-gist -l` 
+`./go-gist -l` 
 
    Shows the LIST of all the GIST 
 
 
-`go-gist -d name-of-gist`
+`./go-gist -d name-of-gist`
 
    DELETES the gist of the GIVEN NAME 
 
 
-`go-gist -da`
+`./go-gist -da`
 
    DELETES all the GISTS
