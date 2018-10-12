@@ -3,13 +3,7 @@
 ![](https://img.shields.io/badge/pypi-v1-green.svg)
 ![](https://img.shields.io/github/license/mashape/apistatus.svg)
 ---
-
 This Script is a wrapper for pushing gist to github using terminal. Apart from uploading, this script also gives option to view, delete and delete all (in case you get in love with the script and ends up uploading everything).
-
-
-## Installation
----
-`pip install go-gist`
 
 ## Usage
 ---
@@ -19,7 +13,7 @@ You need to get an API Token from Github.  [Tutorial Here.](https://help.github.
 
 This API token will be saved along with your username (currently it's in plain text, but working on encrypting it), to allow faster access to the script.
 
-You can type `go-gist -h` to get a list of all the commands.
+You can type `./go-gist.py -h` to get a list of all the commands.
 
 ## List of Commands
 ---
